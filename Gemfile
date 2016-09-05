@@ -1,0 +1,5 @@
+gem 'rack'
+gem 'thin'
+gem 'rubocop'
+gem 'pry'
+gem 'rspec'
